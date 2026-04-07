@@ -13,8 +13,9 @@ Projeto básico desenvolvido em C# com o objetivo de praticar conceitos fundamen
 
 ## 💻 Tecnologias utilizadas
 
-- C#
-- .NET
+![C#](https://img.shields.io/badge/C%23-Programming-blue)
+
+![.NET](https://img.shields.io/badge/.NET-Platform-purple)
 
 ## 📚 Conceitos praticados
 
