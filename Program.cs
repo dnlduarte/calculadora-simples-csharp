@@ -54,7 +54,7 @@ public class Program
         }
         else
         {
-            Console.WriteLine("Não é possível dividir por zero.");
+            Console.WriteLine("\nNão é possível dividir por zero.");
         }
     }
 }
