@@ -28,4 +28,4 @@ Projeto básico desenvolvido em C# com o objetivo de praticar conceitos fundamen
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/dnlduarte/calculadora-simples-c-.git
+git clone https://github.com/dnlduarte/calculadora-simples-csharp.git
